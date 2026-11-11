@@ -32,6 +32,8 @@ Run it with Docker Compose on your own server or NAS: CasaOS/ZimaOS, Synology, T
 [Read the self-hosting docs](https://opentoggl.com/docs/self-hosting)
 
 [![Deploy on Zeabur](https://zeabur.com/button.svg)](https://zeabur.com/templates/0272TO)
+<a href="https://repocloud.io/details/OpenTickly/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="36"></a>
+<a href="https://railway.com/deploy/opentickly-toggl"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="36"></a>
 
 ### Unraid
 
